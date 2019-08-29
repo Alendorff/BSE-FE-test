@@ -1,3 +1,7 @@
+# Some test task
+
+This is another trial task I did for some company. Task is about implementing some small widget as quick as possible (estimated as 1 hour). Below is the CRA readme. 
+
 ## Available Scripts
 
 In the project directory, you can run:
