@@ -1,6 +1,6 @@
 # Some test task
 
-This is another trial task I did for some company. Task is about implementing some small widget as quick as possible (estimated as 1 hour). Below is the CRA readme. 
+This is another trial task I did for some company. Task is about implementing some small widget as quick as possible (estimated as 1 hour) using react and whatever else. Below is the CRA readme. 
 
 ## Available Scripts
 
